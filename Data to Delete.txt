@@ -1,0 +1,75 @@
+Mohamed Ibrahim Hosni El-Gahawy
+4
+Cairo, 6 october
+01112345704
+CS
+Walla Safan Mohamed Safan Mohamed
+5
+Cairo, 6 october
+01112345706
+CS
+Mahmoud Rafik Younes Dalloul
+4
+Cairo, 6 october
+01112345708
+CS
+Basem Zeiad Eshak Alghosain
+3
+Alex, asafra
+01112345710
+CS
+Mohammed Fathy Hussien Abu-Eleyan
+2
+Alex, asafra
+01112345712
+CS
+Mohammed Moroh Kamel Zaid
+1
+Alex, asafra
+01112345714
+CS
+Mohammad Nehad Eshaq Mahmoud Al-Ghosin
+1
+Alex, asafra
+01112345716
+CS
+Zaid Ali Fahad Irshaid
+2
+Alex, asafra
+01112345718
+CS
+Bsama Abd El Manam Ali Al Hammali
+1.4
+Alex, asafra
+01112345720
+CS
+Ahmed El-Sayed Ahmed Mohamed Ghobish
+3.5
+Alex, asafra
+01112345722
+DS
+Hani Abd Karem Abd Malek Abu Rjelah
+3.3
+Cairo, Shobra
+01112345724
+DS
+Engy Mohamed Farouk Abdel-Aziz Aly
+4.4
+Cairo, Shobra
+01112345726
+DS
+Mohamed Mossad Abdel-Allah Hassan
+3.4
+Cairo, Shobra
+01112345728
+DS
+Hamam Mansour Saied Al-Gamdi
+4.4
+Cairo, Shobra
+01112345730
+DS
+Abd El Rahman Hassan Mohamed El Deeb
+2.2
+Cairo, Shobra
+01112345732
+DS
